@@ -142,5 +142,7 @@ Desktop.ini
 
 .classpath
 .project
-*/target
+/target
+/Pet-Clinic-Web/target
+/Pet-Clinic-Data/target
 /.settings
